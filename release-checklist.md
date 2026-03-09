@@ -14,10 +14,13 @@ Before approving a production release:
 - Environment stable
 - Monitoring prepared
 
-## Coordination
+## Release Coordination
 
-Release validated in coordination with:
+Release validation typically involves coordination between:
 
-- DevOps
+- QA Leads
+- DevOps Engineers
 - Development Leads
-- Product Owners
+- Product Stakeholders
+
+The goal is to ensure that all quality gates are respected before production deployment.
