@@ -12,4 +12,6 @@ The goal is to provide a structured approach to quality assurance, covering test
 
 ## Context
 
-This template reflects QA leadership practices used in multi-team environments, where coordination between QA, development, DevOps and product teams is required to ensure consistent quality across releases.
+This template reflects QA leadership practices used in multi-squad agile environments, where multiple teams collaborate to deliver features through coordinated release cycles.
+
+It focuses on aligning QA, development, DevOps, and product teams to maintain consistent quality across distributed teams.
