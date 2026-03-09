@@ -53,3 +53,14 @@ Before production releases, QA ensures:
 - smoke tests
 - environment validation
 - defect review
+
+## Quality Metrics
+
+To monitor product quality and team performance, the following metrics are typically tracked:
+
+- Test coverage
+- Defect leakage
+- Regression stability
+- Release readiness
+- Automation coverage
+  
